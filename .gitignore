@@ -1,0 +1,24 @@
+# Arquivos e diretórios do PyCharm
+.idea/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração do Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Arquivos estáticos e de mídia
+staticfiles/
+media/
+
+# Ambientes virtuais
+venv/
+env/
+
+# Outros
+*.swp
+.DS_Store
